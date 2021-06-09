@@ -1,0 +1,5 @@
+com\helloworld\Hello\world\app\config\SecurityConfig.class
+com\helloworld\Hello\world\app\domain\HelloWorldEndpoint.class
+com\helloworld\Hello\world\app\HelloWorldAppApplication.class
+com\helloworld\Hello\world\app\model\HelloWorld.class
+com\helloworld\Hello\world\app\repositories\HelloWorldRepository.class
